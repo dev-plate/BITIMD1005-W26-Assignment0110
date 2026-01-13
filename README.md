@@ -4,17 +4,17 @@
 
 **Course Code:** IMD1005
 
-**Semester:** Winter 2026
-
+**Semester:** Winter 2026fghfg
+jghjg
 **Due Date:** 11:59 AM (Afternoon) 2026-01-24 
 
 **Assessment:** This assignment is worth 15% of your final grade and marked out of 100.
-
+jghjghj
 ---
 
 ## TLDR
 
-Research a client and their users, define a clear problem statement, then use design tools like Figma (or similar design tools) to create a landing page design. You can use tools like Figma Make and other AI designing softwares, but you have to produce solid rational behind your work. Submit a short report that explains your thinking and justifies your design decisions.
+Research a client and theirghjgh users, define a clear problem statement, then use design tools like Figma (or similar design tools) to create a landing page design. You can use tools like Figma Make and other AI designing softwares, but you have to produce solid rational behind your work. Submit a short report that explains your thinking and justifies your design decisions.
 
 ---
 
